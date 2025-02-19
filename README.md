@@ -1,7 +1,7 @@
 
-# liferay-ce-7.4.3.g112-docker-compose
+# liferay-ce-7.4.3.g15-docker-compose
 ## Description
-A Docker Compose setup with utilities for Liferay 7.4.3 GA112 development environments, designed to replicate a production environment as closely as possible locally.
+A Docker Compose setup with utilities for Liferay 7.4.3 GA15 development environments, designed to replicate a production environment as closely as possible locally.
 
 ### Cloning the repository
 Using SSH:
@@ -14,7 +14,7 @@ git clone https://github.com/s0beran0/liferay-ce-7.4.3.ga112-docker-compose.git
 ```
 and
 ```bash
-cd liferay-ce-7.4.3.ga112-docker-compose/
+cd liferay-ce-7.4.3.ga15-docker-compose/
 ```
 
 ### System Dependencies
