@@ -6,11 +6,11 @@ A Docker Compose setup with utilities for Liferay 7.4.3 GA15 development environ
 ### Cloning the repository
 Using SSH:
 ```bash
-git clone git@github.com:s0beran0/liferay-ce-7.4.3.ga112-docker-compose.git
+git clone git@github.com:s0beran0/liferay-ce-7.4.3.ga15-docker-compose.git
 ```
 Using HTTPS:
 ```bash
-git clone https://github.com/s0beran0/liferay-ce-7.4.3.ga112-docker-compose.git
+git clone https://github.com/s0beran0/liferay-ce-7.4.3.ga15-docker-compose.git
 ```
 and
 ```bash
